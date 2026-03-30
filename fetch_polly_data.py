@@ -8,7 +8,7 @@ import json
 
 # --- Argument parser ---
 parser = argparse.ArgumentParser(description="Download files for a given site/date")
-parser.add_argument("--site", required=True, help="Site name")
+parser.add_argument("--site", required=True, help="Site name, e.g. leipzig, melpitz, mindelo, dushanbe, limassol, invercargill ...")
 parser.add_argument("--date", required=True, help="Date in YYYYMMDD")
 parser.add_argument("--api-key",  required=True, help="Use specific API key")
 parser.add_argument("--download", action="store_true", help="Switch for downloading or just showing the results")
