@@ -1,0 +1,8 @@
+.env
+.env_backup
+.env_new
+__pycache__/
+api_config_file.json
+main_new.py
+main_orig.py
+

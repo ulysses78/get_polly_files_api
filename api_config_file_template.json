@@ -1,0 +1,11 @@
+{
+    "dev_md_file": "",
+
+    "api_token_generation_key": "",
+    "api_keys": {
+	"": ["*"],
+ 	"": ["leipzig", "invercargill"],
+ 	"": ["mindelo"],
+	"": ["dushanbe"]
+ 	 }
+}
